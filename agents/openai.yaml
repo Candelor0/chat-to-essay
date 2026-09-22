@@ -1,0 +1,4 @@
+interface:
+  display_name: "聊成文章"
+  short_description: "像朋友一样聊作品，在有依据的分歧中理清想法，写成忠于本人感受的博客随笔"
+  default_prompt: "使用 $chat-to-essay 陪我聊聊最近感兴趣的作品，先听我说说，再一起把我的想法写成博客文章。"
